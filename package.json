@@ -1,0 +1,24 @@
+{
+  "name": "01-fm-qr-component",
+  "version": "1.0.0",
+  "description": "![Design preview for the QR code component coding challenge](./preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontend-rustyff12/01-fm-qr-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontend-rustyff12/01-fm-qr-component/issues"
+  },
+  "homepage": "https://github.com/frontend-rustyff12/01-fm-qr-component#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.11",
+    "tailwindcss": "^4.1.11"
+  }
+}
